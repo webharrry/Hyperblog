@@ -3,5 +3,11 @@ body {
     font-family: Arial, Helvetica, sans-serif ;
     color: deeppink;
     text-align: center;
+    border: 1px red solid;
+
+}
+
+p{
+    color: black;
 
 }
