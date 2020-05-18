@@ -1,7 +1,6 @@
 body {
 
     font-family: Arial, Helvetica, sans-serif ;
-    color: red;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -14,7 +13,7 @@ body {
     width: 70%;
     text-align: left;
     border: 1px solid grey;
-    color: red;
+    color: grey;
     font-size: 15px;
     margin: 0 auto;
     
@@ -53,4 +52,5 @@ text-align: center;
 #container h1
 { font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 20px;
+color: black;
 }
